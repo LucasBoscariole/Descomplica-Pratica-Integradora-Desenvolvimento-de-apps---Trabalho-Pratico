@@ -1,1 +1,3 @@
-# Descomplica-Pratica-Integradora-Desenvolvimento-de-apps---Trabalho-Pratico
+# Descomplica Pratica Integradora Desenvolvimento de Apps - Trabalho-Pratico
+
+Trabalho feito por Lucas Boscariole Silva
